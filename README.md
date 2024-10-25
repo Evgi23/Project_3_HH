@@ -51,7 +51,7 @@ None
 
 ### Result
 Итоговые выводы по проекту находятся здесь [here](https://github.com/Evgi23/Project_3_HH/blob/main/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
-Итоговые выводы по проекту находятся здесь [here](https://github.com/Evgi23/Project_3_HH/blob/main/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+
 
 :arrow_up: [To Table of contents](https://github.com/Evgi23/Project_3_HH/blob/main/README.md#table-of-contents)
 
