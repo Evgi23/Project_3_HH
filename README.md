@@ -44,7 +44,7 @@
 :arrow_up: [To Table of contents](https://github.com/Evgi23/Project_3_HH/blob/main/README.md#table-of-contents)
 
 ### Short data information
-Резюме с портала Head Hunter
+Вакансии с портала Head Hunter
 
 ### Project work stage
 None
