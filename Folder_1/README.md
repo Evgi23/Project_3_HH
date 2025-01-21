@@ -9,7 +9,7 @@
 
 [4. Project work stage](__)
 
-[5. Result](https://github.com/Evgi23/Project_3_HH/blob/main/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+[5. Result](https://github.com/Evgi23/Project_3_HH/blob/main/Folder_1/Project_2_eng.ipynb)
 
 [6. Conclusions](https://github.com/Evgi23/Project_3_HH/tree/main/Folder_1#conclusions)
 
@@ -50,7 +50,7 @@ Job postings from the HeadHunter portal.
 None
 
 ### Result
-The final conclusions and outcomes of the project can be found [here](https://github.com/Evgi23/Project_3_HH/blob/main/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+The final conclusions and outcomes of the project can be found [here](https://github.com/Evgi23/Project_3_HH/blob/main/Folder_1/Project_2_eng.ipynb)
 
 
 :arrow_up: [To Table of contents](https://github.com/Evgi23/Project_3_HH/tree/main/Folder_1#table-of-contents)
